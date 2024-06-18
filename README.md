@@ -1,6 +1,6 @@
 # Luizgv / README.md
 
-([link-para-sua-foto](https://1drv.ms/i/s!AhUYeFPTyGYMkw799fSddSXYVL8O?e=i1YNuF))
+((https://1drv.ms/i/s!AhUYeFPTyGYMkw799fSddSXYVL8O?e=i1YNuF))
 
 ## Hey there 👋, I'm Luiz Gustavo!
 
