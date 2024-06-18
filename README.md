@@ -2,8 +2,8 @@
 
 ## Hey there 👋, I'm Luiz Gustavo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/luiz-gustavoo)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-red)](https://www.instagram.com/seu_instagram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavoo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_instagram)
 
 ### Bom ter ver aqui! :)
 
@@ -34,3 +34,4 @@ Sou um explorador de novas tecnologias, um aprendiz ávido e um solucionador de 
 ### Projetos & Dev:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luizgv&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizgv&layout=compact&theme=dark)
+
