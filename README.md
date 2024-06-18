@@ -3,7 +3,7 @@
 ## Hey there 👋, I'm Luiz Gustavo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavoo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_instagram)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz__g17?igsh=ZTZ6cTBrN2plNW9x&utm_source=qr)
 
 ### Bom ter ver aqui! :)
 
