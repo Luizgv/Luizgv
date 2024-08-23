@@ -16,7 +16,7 @@ Tenho uma sólida base em algumas tecnologias, incluindo Java, Git, HTML e CSS, 
 Sou um explorador de novas tecnologias, um aprendiz ávido e um solucionador de problemas de coração. Quando não estou codando, você vai me encontrar assistindo a vídeos relacionados à tecnologia no YouTube, alimentando minha curiosidade.
 
 ### Falando sobre assuntos pessoais:
-- ⚡ Atualmente estou desenvolvendo com Java, HTML, CSS e etc.
+- ⚡ Atualmente estou desenvolvendo com Java, HTML, CSS e MySQL.
 - 🚀 No momento explorando Spring, React, JavaScript, etc.
 - 📫 Entre em contato: gustavo.nscto@gmail.com
 
